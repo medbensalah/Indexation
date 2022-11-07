@@ -34,7 +34,7 @@ document / retrouver ce document en réponse à une requête
   + phonèmes
   + morphèmes
   + mots, ...
-+ Complexe en certains langues
++ Complexe en certaines langues
 
 #### <t2>- Filtrae des mots vides "StopWords"
 + Determinants
