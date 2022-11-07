@@ -36,7 +36,7 @@ document / retrouver ce document en réponse à une requête
   + mots, ...
 + Complexe en certaines langues
 
-#### <t2>- Filtrae des mots vides "StopWords"
+#### <t2>- Filtrage des mots vides "StopWords"
 + Determinants
 + pronons
 + prépositions, ...
@@ -83,8 +83,8 @@ document / retrouver ce document en réponse à une requête
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;0: Le terme n'appartient pas au document<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1 : le terme apparait dans le document<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;pmatrice éparse => représenter que les 1<br>
-+ 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;matrice éparse => représenter que les 1<br>
+ 
   + Composantes<br>
 ![](/assets/IndexInverse.png)<br><br>
 <b>Dictionnaire : </b>en mémoire centrale permettant un accès rapide
